@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   //hola
+=======
+// q onda 
+>>>>>>> be4d44827cbe015fe72bc31734631b8d906417b6
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
